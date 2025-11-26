@@ -410,7 +410,7 @@ RULEBOOK = {
 			},
 		},
 		flowerPotJoker:{
-			name : "Flower Pot",
+			name : "chậu HOA",
 			description: "<mult>x3</mult> Mult if poker hand contains all suits.",
 			price: 6,
 			quality:1,
@@ -697,7 +697,7 @@ RULEBOOK = {
 			},
 		},
 		sockAndBuskinJoker:{
-			name : "Sock and Buskin",
+			name : "Ming and Ling",
 			description: "Retrigger all played face cards.",
 			price: 5,
 			quality:1,
@@ -743,7 +743,7 @@ RULEBOOK = {
 			},
 		},
 		hangingChadJoker:{
-			name : "Hanging Chad",
+			name : "Huyềnging Chad",
 			description: "Retrigger first played card used in scoring 2 additional times",
 			price: 5,
 			quality:0,
@@ -999,7 +999,7 @@ RULEBOOK = {
 			},
 		},
 		fourFingersJoker:{
-			name : "Four Fingers",
+			name : "Four Lình",
 			description: "All flushes and straights can be made with 4 cards",
 			price: 6,
 			quality:1,
@@ -1279,7 +1279,7 @@ RULEBOOK = {
 		},
 		riffRaffJoker:{
 			name : "Riff Raff",
-			description: "More options are shown in shop.",
+			description: "+1 slot in shop.",
 			price: 3,
 			quality:0,
 			id : "119",
@@ -1487,7 +1487,7 @@ RULEBOOK = {
 			},
 		},
 		hitTheRoadJoker:{
-			name : "Hit the Road",
+			name : "Hit uyên nhi",
 			description: "This joker gains <mult>x0.5</mult> Mult for each jack discarded this round.",
 			price: 4,
 			quality:1,
