@@ -1041,7 +1041,7 @@ RULEBOOK = {
 			},
 		},
 		grosMichelJoker:{
-			name : "Gros Michel",
+			name : "sim chuối",
 			description: "<mult>+15</mult> Mult. <br> <u>1 in (9 x hands)</u> chance this card stops working permanently.",
 			price: 3,
 			quality:0,
